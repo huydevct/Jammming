@@ -1,7 +1,7 @@
 let accessToken;
 
 const clientID = 'df259746dae5461e915d408fde63120b';
-const redirectUri = 'http://fair-camp.surge.sh ';
+const redirectUri = 'http://fair-camp.surge.sh';
 
 const Spotify = {
     search(term){
